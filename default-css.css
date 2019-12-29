@@ -1,0 +1,116 @@
+/*
+ * bifinew default html css v1.0
+ * Copyright Authors by Biswabyapi Halder
+ * bifinew default html css is free to use. No license is necessary.
+ */
+
+/*/==========Default-Css==========/*/
+*,
+*::before,
+*::after{
+	margin: 0;
+	box-sizing: border-box;
+	line-height: 1.5;
+}
+html{
+	scroll-behavior: smooth;
+	overflow-x:hidden;
+	font-size: 62.5%;
+}
+body{
+	font-family: "Segoe UI", sans-serif;
+	font-size: 1.5rem;
+	font-weight: 400;
+	text-align: left;
+}
+header, section, footer, aside, nav, main, article, figure {
+  display: block;
+}
+hr{
+	border-top:1px solid #ddd;
+	margin-bottom:1.2rem;
+}
+h1, h2, h3, h4, h5, h6,b,strong,th,dt{
+	font-weight:500;
+}
+a{
+	text-decoration: none;
+	color:inherit
+}
+a:hover{
+	opacity: .8;
+}
+iframe,img {
+  vertical-align: middle;
+  border-style: none;
+  width: 100%;
+  height: auto;
+}
+pre,
+p,
+address,
+table,
+ol,
+ul,
+dl{
+	padding-bottom: 1.2rem;
+}
+
+i,em,cite,address{
+	font-style: italic;
+}
+small {
+  font-size: 80%;
+}
+mark{
+	background: #ff0;
+}
+sub {
+  bottom: -.25em;
+}
+sup {
+  top: -.5em;
+}
+blockquote{
+	padding-left:3.6rem; 
+}
+abbr[title],
+abbr[data-original-title] {
+  	text-decoration: underline dotted;
+  	cursor: pointer;
+}
+table{
+  	border-collapse: collapse;
+  	width: 100%;
+}
+input,th,td,dt,dd,li,details{
+	padding: .4rem;
+}
+input,
+button,
+select,
+optgroup,
+textarea,
+pre{
+  	font-family: inherit;
+  	font-size: inherit;
+  	width: 100%;
+  	margin-bottom:1rem; 
+}
+select,
+button,
+input[type="reset"],
+input[type="button"],
+input[type="submit"],
+input[type="checkbox"],
+input[type="radio"]{
+		cursor: pointer;
+		width: auto;
+}
+summary {
+  display: list-item;
+  cursor: pointer;
+}
+[hidden] {
+  display: none !important;
+}
