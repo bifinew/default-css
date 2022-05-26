@@ -38,7 +38,7 @@ var homes = [
 ["bmla4w17Flo","4pj0Djx"],
 //kids
 ["FyJqWC2CYwo","FHgrrZY"],
-["bmla4w17Flo","4pj0Djx"],
+["zvu_htzr6Y0","2Pj4w7h"],
 ["bmla4w17Flo","4pj0Djx"],
 ["bmla4w17Flo","4pj0Djx"],
 ["bmla4w17Flo","4pj0Djx"],
@@ -83,7 +83,6 @@ var films = [
 var musics = [
 ["bmla4w17Flo","NWfWfHN"],
 ["5vAmkhO-wAQ","P9dc8Zv"],
-["lji630IAUxQ","Byt3Qv6"],
 ["cx4Xwae513g","Rv0D8Vx"],
 ["P5B0KVl3xa8","XyqW2cP"],
 ["XjuCjiiXNNs","qp2fvvZ"],
@@ -93,10 +92,5 @@ var musics = [
 var kids = [
 ["V0QA-Y3_Ojw","vVKPSd0"],
 ["FyJqWC2CYwo","cxJR2fD"],
-["lji630IAUxQ","Byt3Qv6"],
-["cx4Xwae513g","Rv0D8Vx"],
-["P5B0KVl3xa8","XyqW2cP"],
-["XjuCjiiXNNs","qp2fvvZ"],
-["y9cgtRYI6jM","cxhh1ZN"],
-["ULEQb_l-N08","L5pBw7m"]
+["zvu_htzr6Y0","25TtYHn"]
 ];
