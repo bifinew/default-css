@@ -10,7 +10,7 @@ var homeshows = [
 
 var homes = [
 //slider img
-["cx4Xwae513g","Rv0D8Vx"],
+["movie","QYw20H5"],
 ["P5B0KVl3xa8","XyqW2cP"],
 ["XjuCjiiXNNs","qp2fvvZ"],
 ["y9cgtRYI6jM","cxhh1ZN"],
