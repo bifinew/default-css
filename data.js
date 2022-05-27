@@ -1,8 +1,3 @@
-
-var homeshows = [
-
-]
-
 var homes = [
 //slider img
 ["movie","QYw20H5"],
