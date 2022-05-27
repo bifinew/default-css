@@ -1,11 +1,6 @@
 
 var homeshows = [
-["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
-["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
-["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
-["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
-["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
-["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"]
+
 ]
 
 var homes = [
@@ -42,7 +37,14 @@ var homes = [
 ["bmla4w17Flo","4pj0Djx"],
 ["bmla4w17Flo","4pj0Djx"],
 ["bmla4w17Flo","4pj0Djx"],
-["bmla4w17Flo","4pj0Djx"]
+["bmla4w17Flo","4pj0Djx"],
+// web shows
+["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
+["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
+["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
+["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
+["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
+["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"]
 ]
 
 // full list...........
