@@ -86,6 +86,14 @@ var musics = [
 ["BTRtfW-CjXU","h2LMWCw"]
 ];
 var kids = [
+["kvJIr7L-8h0","d7KsbZc"],
+["DJ-88wH--xM","9wVLs5j"],
+["hz4Jz1fiu-Y","94VHjwy"],
+["vee6hLgh3VQ","GHNwND8"],
+["wzoPFHghs-0","2cc16Wp"],
+["fFHZoqns1ho","bKgvPPd"],
+["u21cCilpW04","NppSXWL"],
+["X6WOxY4FGmo","R4cyWrF"],
 ["V0QA-Y3_Ojw","vVKPSd0"],
 ["FyJqWC2CYwo","cxJR2fD"],
 ["zvu_htzr6Y0","25TtYHn"]
