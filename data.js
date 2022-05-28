@@ -27,12 +27,12 @@ var homes = [
 ["qCYby9dc480","ynR8kBC"],
 ["BTRtfW-CjXU","hRFrydt"],
 //kids
-["FyJqWC2CYwo","FHgrrZY"],
-["zvu_htzr6Y0","2Pj4w7h"],
-["wzoPFHghs-0","mqyB4SP"],
 ["fFHZoqns1ho","GkF83XG"],
 ["u21cCilpW04","6srVsw3"],
 ["X6WOxY4FGmo","ySnbBZF"],
+["FyJqWC2CYwo","FHgrrZY"],
+["zvu_htzr6Y0","2Pj4w7h"],
+["wzoPFHghs-0","mqyB4SP"],
 // web shows
 ["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
 ["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
