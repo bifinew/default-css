@@ -1,6 +1,6 @@
 var homes = [
 //slider img
-["movie","QYw20H5"],
+["movie","mhWLpyx"],
 ["P5B0KVl3xa8","XyqW2cP"],
 ["XjuCjiiXNNs","qp2fvvZ"],
 ["y9cgtRYI6jM","cxhh1ZN"],
