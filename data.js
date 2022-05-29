@@ -44,7 +44,7 @@ var homes = [
 
 // full list...........
 var shows = [
-["bmla4w17Flo","NWfWfHN","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
+["wwdJSvRl1ro","pd6GPm6","pd6GPm6=wwdJSvRl1ro&The Reunion=wwdJSvRl1ro&An Invite To The Past=20_2Q7hoKPk&Bourbon High Class of 2008=hc_NdTREyLs&Back To School=6i_sS-cy9Ko&The Flashbacks Begin=QHWoZ67ygW8&Lets Start A Fire=BMOQ_7go3eY&This Changes Everything=R2QCZ3Bk1Cs&Dont Panic=pmPd-AK-gWY&Talk To Me=Sb9p0YfQafo&We Got This=FSieNNItbw0&Keep Moving=knvwsd31zu4"],
 ["5vAmkhO-wAQ","P9dc8Zv","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
 ["lji630IAUxQ","Byt3Qv6","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
 ["cx4Xwae513g","Rv0D8Vx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"]
