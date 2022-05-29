@@ -1,10 +1,10 @@
 var homes = [
 //slider img
-["movie","mhWLpyx"],
-["P5B0KVl3xa8","XyqW2cP"],
-["XjuCjiiXNNs","qp2fvvZ"],
-["y9cgtRYI6jM","cxhh1ZN"],
-["ULEQb_l-N08","L5pBw7m"],
+["1","bzyvhS2"],//movie img
+["2","THzmxsX"],//web img
+["3","6D195yp"],//films img
+["4","xh3M9ZV"],//song img
+["5","q13tmM5"],//kid img
 //movies
 ["U7vBj2AGG3c","tPsGJxP"],
 ["lJ-fBdXSbhY","KGpDsXH"],
