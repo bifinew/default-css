@@ -35,7 +35,7 @@ var homes = [
 ["wzoPFHghs-0","mqyB4SP"],
 // web shows
 ["wwdJSvRl1ro","fCnkPLy","pd6GPm6=wwdJSvRl1ro&The%20Reunion=wwdJSvRl1ro&An%20Invite%20To%20The%20Past=20_2Q7hoKPk&Bourbon%20High%20Class%20of%202008=hc_NdTREyLs&Back%20To%20School=6i_sS-cy9Ko&The%20Flashbacks%20Begin=QHWoZ67ygW8&Lets%20Start%20A%20Fire=BMOQ_7go3eY&This%20Changes%20Everything=R2QCZ3Bk1Cs&Dont%20Panic=pmPd-AK-gWY&Talk%20To%20Me=Sb9p0YfQafo&We%20Got%20This=FSieNNItbw0&Keep%20Moving=knvwsd31zu4"],
-["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
+["UTQbqJsx7EI","zRt1WQG","3Wg50yC=UTQbqJsx7EI&The%20Holiday=UTQbqJsx7EI&3%20Guys%20And%20A%20Girl=hw7fDTBj4hk&In%20Da%20Club=lVYV2EVcNIA&Ghast%20From%20The%20Past=1nf2lD0kwLM&Beach%20Please=xP6YBCvY-bU&Bachna%20Ae%20Casino=2jb7US0mbpM&The%20Big%20Bag%20Theory=jEKCEhsbDHc&Love%20Stuck=2MrG2FUsV50&Unfriended=yIEYMQckKBU&The%20Aftermath=TcObZQ73Z0Q&Four%20Two%20Ka%20One=zOdO4_qBz3g"],
 ["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
 ["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
 ["bmla4w17Flo","4pj0Djx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
@@ -45,7 +45,7 @@ var homes = [
 // full list...........
 var shows = [
 ["wwdJSvRl1ro","pd6GPm6","pd6GPm6=wwdJSvRl1ro&The%20Reunion=wwdJSvRl1ro&An%20Invite%20To%20The%20Past=20_2Q7hoKPk&Bourbon%20High%20Class%20of%202008=hc_NdTREyLs&Back%20To%20School=6i_sS-cy9Ko&The%20Flashbacks%20Begin=QHWoZ67ygW8&Lets%20Start%20A%20Fire=BMOQ_7go3eY&This%20Changes%20Everything=R2QCZ3Bk1Cs&Dont%20Panic=pmPd-AK-gWY&Talk%20To%20Me=Sb9p0YfQafo&We%20Got%20This=FSieNNItbw0&Keep%20Moving=knvwsd31zu4"],
-["5vAmkhO-wAQ","P9dc8Zv","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
+["UTQbqJsx7EI","3Wg50yC","3Wg50yC=UTQbqJsx7EI&The%20Holiday=UTQbqJsx7EI&3%20Guys%20And%20A%20Girl=hw7fDTBj4hk&In%20Da%20Club=lVYV2EVcNIA&Ghast%20From%20The%20Past=1nf2lD0kwLM&Beach%20Please=xP6YBCvY-bU&Bachna%20Ae%20Casino=2jb7US0mbpM&The%20Big%20Bag%20Theory=jEKCEhsbDHc&Love%20Stuck=2MrG2FUsV50&Unfriended=yIEYMQckKBU&The%20Aftermath=TcObZQ73Z0Q&Four%20Two%20Ka%20One=zOdO4_qBz3g"],
 ["lji630IAUxQ","Byt3Qv6","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"],
 ["cx4Xwae513g","Rv0D8Vx","P9dc8Zv=5vAmkhO-wAQ&Couple=5vAmkhO-wAQ"]
 ];
